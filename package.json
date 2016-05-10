@@ -1,0 +1,27 @@
+{
+  "name": "passport-oidc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achristie/passport-oidc.git"
+  },
+  "author": "Andrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/achristie/passport-oidc/issues"
+  },
+  "homepage": "https://github.com/achristie/passport-oidc#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "jade": "^1.11.0",
+    "method-override": "^2.3.5",
+    "passport": "^0.3.2"
+  }
+}
